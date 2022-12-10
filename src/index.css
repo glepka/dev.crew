@@ -73,6 +73,28 @@
 @import url(./blocks/newcomer/__title/newcomer__title.css);
 @import url(./blocks/newcomer/__cards/newcomer__cards.css);
 
+/* SLIDER */
+@import url(./blocks/slider/slider.css);
+@import url(./blocks/slider/__container/slider__container.css);
+@import url(./blocks/slider/__img/slider__img.css);
+@import url(./blocks/slider/__text/slider__text.css);
+@import url(./blocks/slider/__text-container/slider__text-container.css);
+@import url(./blocks/slider/__photo-container/slider__photo-container.css);
+@import url(./blocks/slider/__circle/slider__circle.css);
+@import url(./blocks/slider/__circle/_type/slider__circle_type_first.css);
+@import url(./blocks/slider/__circle/_type/slider__circle_type_second.css);
+@import url(./blocks/slider/__circle/_type/slider__circle_type_third.css);
+@import url(./blocks/slider/__photo/slider__photo.css);
+@import url(./blocks/slider/__name/slider__name.css);
+@import url(./blocks/slider/__description/slider__description.css);
+@import url(./blocks/slider/__subtitle/slider__subtitle.css);
+@import url(./blocks/slider/__description-gradient/slider__description-gradient.css);
+@import url(./blocks/slider/__pag/slider__pag.css);
+@import url(./blocks/slider/__pag/_active/slider__pag_active.css);
+@import url(./blocks/slider/__next-element/slider__next-element.css);
+@import url(./blocks/slider/__prev-element/slider__prev-element.css);
+@import url(./blocks/slider/__arrow_disabled/slider__arrow_disabled.css);
+
 /* CONTRIBUTOR */
 @import url(./blocks/contributor/contributor.css);
 @import url(./blocks/contributor/__container/contributor__container.css);

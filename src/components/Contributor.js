@@ -6,7 +6,7 @@ export default function Contributor() {
         <p className="contributor__subtitle">
           Join us and get tips & tricks to become a great Designer and Developer
         </p>
-        <form className="intro__search input-box">
+        <form className="input-box">
           <input
             type="email"
             className="input-box__input"

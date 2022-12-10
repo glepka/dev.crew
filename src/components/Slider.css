@@ -1,0 +1,19 @@
+.next {
+  position: absolute;
+  width: 26px;
+  height: 45px;
+  bottom: 140px;
+  left: 112px;
+  background-image: url(../images/next.svg);
+}
+
+.prev {
+  position: absolute;
+  width: 26px;
+  height: 45px;
+  bottom: 140px;
+  left: 8px;
+  background-image: url(../images/prev.svg);
+  margin-left: 10px;
+  cursor: pointer;
+}

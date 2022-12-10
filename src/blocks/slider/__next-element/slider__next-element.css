@@ -1,0 +1,15 @@
+.slider__next-element {
+  background-image: url(../../../images/slider-arrow-next.svg);
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  width: 12px;
+  height: 24px;
+  background-size: contain;
+  border: none;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: transparent;
+  cursor: pointer;
+  z-index: 1;
+}

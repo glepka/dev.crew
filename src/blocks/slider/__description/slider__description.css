@@ -1,0 +1,14 @@
+.slider__description {
+  background-color: rgba(40, 48, 54, 1);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 22px 16px 22px;
+  position: absolute;
+  bottom: 29px;
+  right: 110px;
+  overflow: hidden;
+  min-width: 265px;
+  box-sizing: border-box;
+}

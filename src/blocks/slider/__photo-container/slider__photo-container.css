@@ -1,0 +1,6 @@
+.slider__photo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}

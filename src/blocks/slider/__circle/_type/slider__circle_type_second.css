@@ -1,0 +1,9 @@
+.slider__circle_type_second {
+  width: 305px;
+  height: 305px;
+  background-color: rgba(40, 48, 54, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  top: 24%;
+  left: 24%;
+  z-index: -2;
+}

@@ -1,0 +1,8 @@
+.slider__circle_type_first {
+  width: 230px;
+  height: 230px;
+  background-color: rgba(40, 48, 54, 1);
+  top: 32%;
+  left: 30%;
+  z-index: -1;
+}

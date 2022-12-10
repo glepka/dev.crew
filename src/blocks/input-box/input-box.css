@@ -5,4 +5,6 @@
   display: flex;
   gap: 13px;
   align-items: center;
+  max-width: 497px;
+  margin: 0;
 }
