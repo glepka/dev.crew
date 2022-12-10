@@ -1,0 +1,15 @@
+.card__gradient {
+  width: 100px;
+  height: 100px;
+  background: linear-gradient(
+    225deg,
+    rgba(255, 110, 48, 0.3),
+    rgba(255, 110, 48, 0.2)
+  );
+  filter: blur(25px);
+  border-radius: 50%;
+  position: absolute;
+  top: -6px;
+  right: -16px;
+  display: none;
+}

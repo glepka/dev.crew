@@ -1,0 +1,6 @@
+.brands__logos {
+  display: flex;
+  gap: 107px;
+  align-items: center;
+  padding-top: 55px;
+}

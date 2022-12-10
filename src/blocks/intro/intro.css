@@ -1,0 +1,8 @@
+.intro {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 104px;
+  padding-bottom: 100px;
+  position: relative;
+}

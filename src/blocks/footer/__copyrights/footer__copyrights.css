@@ -1,0 +1,6 @@
+.footer__copyrights {
+  max-width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}

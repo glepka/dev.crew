@@ -1,0 +1,6 @@
+.card__icon_type_like {
+  background-image: url(../../../../images/like-icon.svg);
+}
+.card__icon_type_like:hover {
+  background-image: url(../../../../images/like-active-icon.svg);
+}

@@ -1,0 +1,8 @@
+.input-box {
+  background-color: #283036;
+  border-radius: 15px;
+  padding: 8px 11px 8px 21px;
+  display: flex;
+  gap: 13px;
+  align-items: center;
+}

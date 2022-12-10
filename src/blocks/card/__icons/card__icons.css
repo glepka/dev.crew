@@ -1,0 +1,8 @@
+.card__icons {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+}

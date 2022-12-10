@@ -1,0 +1,6 @@
+.tools__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 100px;
+  column-gap: 24px;
+}

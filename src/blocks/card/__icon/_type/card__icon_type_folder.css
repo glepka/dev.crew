@@ -1,0 +1,6 @@
+.card__icon_type_folder {
+  background-image: url(../../../../images/folder-icon.svg);
+}
+.card__icon_type_folder:hover {
+  background-image: url(../../../../images/folder-active-icon.svg);
+}

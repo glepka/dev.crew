@@ -1,0 +1,19 @@
+.tools__button {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ff6e30;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 17px 38px;
+  background: none;
+  cursor: pointer;
+  margin-top: 100px;
+}
+
+.tools__button:hover {
+  background-color: #ff6e30;
+  color: #ffffff;
+}

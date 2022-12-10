@@ -1,0 +1,22 @@
+.brands__container {
+  border-radius: 25px;
+  padding: 55px 82px;
+  background-color: rgba(255, 255, 255, 0.05);
+  position: relative;
+  overflow: hidden;
+}
+.brands__container::before {
+  content: "";
+  position: absolute;
+  top: 2px;
+  bottom: 2px;
+  left: 2px;
+  right: 2px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.05),
+    rgba(255, 255, 255, 0)
+  );
+  border-radius: 23px;
+  z-index: 1;
+}

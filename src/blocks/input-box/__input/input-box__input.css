@@ -1,0 +1,16 @@
+.input-box__input {
+  min-width: 320px;
+  height: max-content;
+  border: none;
+  background-color: inherit;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 0.38);
+}
+
+.input-box__input:focus {
+  outline: none;
+}

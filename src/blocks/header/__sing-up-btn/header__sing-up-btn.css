@@ -1,0 +1,17 @@
+.header__sing-up-btn {
+  background: #ff6e30;
+  border-radius: 8px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fdf5ff;
+  padding: 12px 28px;
+  border: none;
+}
+
+.header__sing-up-btn:hover {
+  background: #f78453;
+  cursor: pointer;
+}

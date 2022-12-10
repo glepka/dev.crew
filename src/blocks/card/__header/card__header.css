@@ -1,0 +1,6 @@
+.card__header {
+  display: flex;
+  gap: 30px;
+  justify-content: flex-start;
+  align-items: center;
+}

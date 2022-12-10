@@ -1,0 +1,7 @@
+.intro__social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 58px;
+  height: 58px;
+}
