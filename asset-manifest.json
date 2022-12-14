@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dev.crew/static/css/main.be2f97ae.css",
+    "main.css": "/dev.crew/static/css/main.3746cff8.css",
     "main.js": "/dev.crew/static/js/main.2891ecbf.js",
     "static/js/787.8921baf6.chunk.js": "/dev.crew/static/js/787.8921baf6.chunk.js",
     "static/media/man-photo.svg": "/dev.crew/static/media/man-photo.851ecbd8b2b9b56d39b8248045a8e82c.svg",
@@ -39,12 +39,12 @@
     "static/media/prev.svg": "/dev.crew/static/media/prev.618ada52c4f5a01b8e36.svg",
     "static/media/slider-arrow-prev.svg": "/dev.crew/static/media/slider-arrow-prev.bfa933ae0f27495bce65.svg",
     "static/media/slider-arrow-next.svg": "/dev.crew/static/media/slider-arrow-next.893f50a31c61fdf214f0.svg",
-    "main.be2f97ae.css.map": "/dev.crew/static/css/main.be2f97ae.css.map",
+    "main.3746cff8.css.map": "/dev.crew/static/css/main.3746cff8.css.map",
     "main.2891ecbf.js.map": "/dev.crew/static/js/main.2891ecbf.js.map",
     "787.8921baf6.chunk.js.map": "/dev.crew/static/js/787.8921baf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be2f97ae.css",
+    "static/css/main.3746cff8.css",
     "static/js/main.2891ecbf.js"
   ]
 }
