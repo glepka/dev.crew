@@ -5,6 +5,11 @@
 @import url(./blocks/page/page.css);
 @import url(./blocks/page/__container/page__container.css);
 
+/* INPUT-BOX */
+@import url(./blocks/input-box/input-box.css);
+@import url(./blocks/input-box/__button/input-box__button.css);
+@import url(./blocks/input-box/__input/input-box__input.css);
+
 /* HEADER */
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__logo/header__logo.css);
@@ -26,11 +31,6 @@
 @import url(./blocks/intro/__span/intro__span.css);
 @import url(./blocks/intro/__subtitle/intro__subtitle.css);
 @import url(./blocks/intro/__title/intro__title.css);
-
-/* INPUT-BOX */
-@import url(./blocks/input-box/input-box.css);
-@import url(./blocks/input-box/__button/input-box__button.css);
-@import url(./blocks/input-box/__input/input-box__input.css);
 
 /* TOOLS */
 @import url(./blocks/tools/tools.css);
